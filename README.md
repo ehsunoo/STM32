@@ -1,2 +1,3 @@
-# STM32
-My STM32 projects by using HAL library
+# STM32-ublox-UART
+In this project, STM32F407 recieved GPS data from ublox-neo-7M GPS receiver in UBX format.
+UART interface used for communication.
