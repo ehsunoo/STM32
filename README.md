@@ -2,7 +2,8 @@
 In this project, **STM32F407** recieved GPS data from **ublox-neo-7M** GPS receiver module in **UBX** format.
 
 ### Features
-* **STM32CubeMX** software used to config STM32F407 microcontroller.
+* **Simple** and **uncomplicated** code.(In the easiest way!)
+* **STM32CubeMX** software used to config STM32F407 microcontroller.(configuration file exist in project!)
 * **HAL** library used.
 * **UART** interface used for communication.
 * Data received in UBX format.
